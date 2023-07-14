@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🕶️💾️ LennyOS is a highly customizable eyeglass operating system. Want to show off some laser eyes and improve focal abilities at the same time? LennyOS is there for you!
