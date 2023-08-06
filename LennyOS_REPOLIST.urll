@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: LennyOS_REPOLIST.urll
 //// URL list for LennyOS repositories
-//// 14 total repository links (as of 2023, Friday, July 28th at 02:50 pm PST), Version 7
+//// 16 total repository links (as of 2023, Saturday, August 5th at 06:00 pm PST), Version 8
 
-//// GitHub (14)
+//// GitHub (16)
 
 https://github.com/seanpm2001/LennyOS
 https://github.com/seanpm2001/LennyOS_Docs
@@ -20,11 +20,13 @@ https://github.com/seanpm2001/LennyOS_Prescription
 https://github.com/seanpm2001/LennyOS_Colors
 https://github.com/seanpm2001/LennyOS_Core
 https://github.com/seanpm2001/LennyOS_Hardware
+https://github.com/seanpm2001/LennyOS_TinyOS
+https://github.com/seanpm2001/LennyOS_Linux
 
 //// GitLab (0)
 
 //// File info
-//// File version: 7 (2023, Friday, July 28th at 02:49 pm PST)
-//// Line count (including blank lines and compiler line): 31
+//// File version: 8 (2023, Saturday, August 5th at 06:00 pm PST)
+//// Line count (including blank lines and compiler line): 33
 
 //// End of file (EOF)
